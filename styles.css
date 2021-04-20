@@ -77,6 +77,8 @@ img {
     grid-row: span 6;
 }
 
+
+
 /* NAVBAR */
 /* NAVBAR */
 /* NAVBAR */
@@ -118,6 +120,8 @@ img {
 .nav-container img {
     margin-top: 8px;
 }
+
+
 
 /* HERO AREA */
 /* HERO AREA */
@@ -161,6 +165,8 @@ img {
     font-size: 1.5em;
     color: #5c5c5c;
 }
+
+
 
 /* MAIN AREA */
 /* MAIN AREA */
@@ -230,6 +236,8 @@ img {
     animation: topdown .4s ease-out;
 }
 
+
+
 /* FOOTER */
 /* FOOTER */
 /* FOOTER */
@@ -243,6 +251,7 @@ footer {
     text-align: center;
     padding-top: 18px;
 }
+
 
 
 /* ANIMATIONS */
